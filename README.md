@@ -1,4 +1,4 @@
-# finance-excersises
+# finance-notes
 A small collection of notes and whatnot ;)
 
 Assembled in the form of notes and python code, after studying the lovely [Secrets of Trading Stock](https://www.ozon.ru/product/sekrety-birzhevoy-torgovli-torgovlya-aktsiyami-na-fondovyh-birzhah-7347188/?sh=dR_iFGXr)
